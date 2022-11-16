@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fast70.com	TRUE	/	FALSE	1999999999	PHPSESSID	k1n9jr8lbgcksgh94fu105gtdt
+fast70.com	TRUE	/	FALSE	1999999999	_csrf	2e0361c5c5df9fe485a46de646405e80c256ebd2773de1eff2d2305584dc32daa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22x7Cqv0ao-f3V6AHAgBAPRla_8g8-7k1P%22%3B%7D
+
